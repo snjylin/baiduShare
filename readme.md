@@ -2,7 +2,7 @@
 ### 使用方法： ###
 修改文件 `/layout/_partials/share/baidushare.swig`
 
-将对应的百度分享代码中，把 `http://bdimg.share.baidu.com/` 改为 `//www.secretbase.vip/baiduShare/`
+将对应的百度分享代码中，把 `http://bdimg.share.baidu.com/` 改为 `//baidushare.secretbase.vip/`
 
 <br><br>
 
